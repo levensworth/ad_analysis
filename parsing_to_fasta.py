@@ -2,7 +2,7 @@ import argparse
 import os
 
 from Bio import SeqIO
-from Bio.Seq import Seq
+from Bio.Seq import Seq, translate
 from Bio.SeqRecord import SeqRecord
 
 parser = argparse.ArgumentParser()
@@ -53,14 +53,24 @@ def find_orfs_with_trans(seq, trans_table, min_protein_length):
     return answer
 
 
+def find_orfs(sequence):
+    answer = []
+    for strand, nuc in [(+1, sequence), (-1, sequence.reverse_complement())]:
+        for frame in range(3):
+            trans = str(translate(nuc[frame:]))
+            answer.append(trans)
+
+    answer.sort()
+    return answer
+
+
 orf_list = []
 
 for s in record:
     seq = s.seq
-    seq = seq.transcribe()
-    orf_list += find_orfs_with_trans(seq, table, min_pro_len)
+    orf_list += find_orfs(seq)
 
-sequences = [SeqRecord(Seq(pro), id="APOE") for start, end, strand, pro in orf_list]
+sequences = [SeqRecord(Seq(orf_list[idx]), id="ORF {}".format(idx)) for idx in range(len(orf_list))]
 
 try:
     output_file_direction = args.output if args.output else os.path.basename(args.file)
