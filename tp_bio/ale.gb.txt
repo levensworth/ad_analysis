@@ -1,0 +1,338 @@
+LOCUS       NM_000077                978 bp    mRNA    linear   PRI 02-SEP-2020
+DEFINITION  Homo sapiens cyclin dependent kinase inhibitor 2A (CDKN2A),
+            transcript variant 1, mRNA.
+ACCESSION   NM_000077
+VERSION     NM_000077.5
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 978)
+  AUTHORS   Kovacs E, Tompa P, Liliom K and Kalmar L.
+  TITLE     Dual coding in alternative reading frames correlates with intrinsic
+            protein disorder
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 107 (12), 5429-5434 (2010)
+   PUBMED   20212158
+  REMARK    GeneRIF: Suggests that the long dual coding region and/or the
+            resulting disordered protein structure may facilitate NMD escape of
+            the variant encoding the p14ARF isoform.
+REFERENCE   2  (bases 1 to 978)
+  AUTHORS   Irvine M, Philipsz S, Frausto M, Mijatov B, Gallagher SJ, Fung C,
+            Becker TM, Kefford RF and Rizos H.
+  TITLE     Amino terminal hydrophobic import signals target the p14(ARF) tumor
+            suppressor to the mitochondria
+  JOURNAL   Cell Cycle 9 (4), 829-839 (2010)
+   PUBMED   20107316
+  REMARK    GeneRIF: The interaction of p14(ARF) with mitochondrial proteins,
+            including p32 and enables p53-independent cell death.
+REFERENCE   3  (bases 1 to 978)
+  AUTHORS   Zhang HJ, Li WJ, Yang SY, Li SY, Ni JH and Jia HT.
+  TITLE     8-Chloro-adenosine-induced E2F1 promotes p14ARF gene activation in
+            H1299 cells through displacing Sp1 from multiple overlapping
+            E2F1/Sp1 sites
+  JOURNAL   J. Cell. Biochem. 106 (3), 464-472 (2009)
+   PUBMED   19115249
+  REMARK    GeneRIF: overlapping E2F1/Sp1 site, being present in multiple
+            copies in the p14ARF promoter, may serve as the targets for both
+            E2F1 and Sp1, thereby playing a crucial role in response to some
+            oncogenic signals and stimulators
+REFERENCE   4  (bases 1 to 978)
+  AUTHORS   Ivanchuk SM, Mondal S and Rutka JT.
+  TITLE     p14ARF interacts with DAXX: effects on HDM2 and p53
+  JOURNAL   Cell Cycle 7 (12), 1836-1850 (2008)
+   PUBMED   18583933
+REFERENCE   5  (bases 1 to 978)
+  AUTHORS   Bandyopadhyay K, Lee C, Haghighi A, Baneres JL, Parello J and
+            Gjerset RA.
+  TITLE     Serine phosphorylation-dependent coregulation of topoisomerase I by
+            the p14ARF tumor suppressor
+  JOURNAL   Biochemistry 46 (49), 14325-14334 (2007)
+   PUBMED   18004878
+  REMARK    GeneRIF: ARF is a serine phosphorylation-dependent coregulator of
+            topoisomerase I in vivo, and it regulates cellular sensitivity to
+            camptothecin by interacting with topoisomerase I.
+REFERENCE   6  (bases 1 to 978)
+  AUTHORS   Lin YC, Diccianni MB, Kim Y, Lin HH, Lee CH, Lin RJ, Joo SH, Li J,
+            Chuang TJ, Yang AS, Kuo HH, Tsai MD and Yu AL.
+  TITLE     Human p16gamma, a novel transcriptional variant of p16(INK4A),
+            coexpresses with p16(INK4A) in cancer cells and inhibits cell-cycle
+            progression
+  JOURNAL   Oncogene 26 (49), 7017-7027 (2007)
+   PUBMED   17486064
+  REMARK    GeneRIF: p16gamma, like p16(INK4A), induced cell-cycle arrest at
+            G(0)/G(1), and inhibited cell growth in colony formation assay.
+            GeneRIF: p16gamma: a novel transcriptional variant of p16INK4A
+REFERENCE   7  (bases 1 to 978)
+  AUTHORS   Reef S, Zalckvar E, Shifman O, Bialik S, Sabanay H, Oren M and
+            Kimchi A.
+  TITLE     A short mitochondrial form of p19ARF induces autophagy and
+            caspase-independent cell death
+  JOURNAL   Mol. Cell 22 (4), 463-475 (2006)
+   PUBMED   16713577
+REFERENCE   8  (bases 1 to 978)
+  AUTHORS   Mason SL, Loughran O and La Thangue NB.
+  TITLE     p14(ARF) regulates E2F activity
+  JOURNAL   Oncogene 21 (27), 4220-4230 (2002)
+   PUBMED   12082609
+  REMARK    GeneRIF: p14(ARF) down-regulates E2F-dependent transcription. In
+            cells undergoing E2F-dependent apoptosis it arrests the cell cycle.
+            p14(ARF) has multiple binding domains for E2F-1, one within the
+            N-terminal region coinciding with the regulation of E2F activity.
+REFERENCE   9  (bases 1 to 978)
+  AUTHORS   Hayward N.
+  TITLE     New developments in melanoma genetics
+  JOURNAL   Curr Oncol Rep 2 (4), 300-306 (2000)
+   PUBMED   11122857
+  REMARK    Review article
+REFERENCE   10 (bases 1 to 978)
+  AUTHORS   Robertson KD and Jones PA.
+  TITLE     Tissue-specific alternative splicing in the human INK4a/ARF cell
+            cycle regulatory locus
+  JOURNAL   Oncogene 18 (26), 3810-3820 (1999)
+   PUBMED   10445844
+REFERENCE   11 (bases 1 to 978)
+  AUTHORS   Liu L, Dilworth D, Gao L, Monzon J, Summers A, Lassam N and Hogg D.
+  TITLE     Mutation of the CDKN2A 5' UTR creates an aberrant initiation codon
+            and predisposes to melanoma
+  JOURNAL   Nat. Genet. 21 (1), 128-132 (1999)
+   PUBMED   9916806
+REFERENCE   12 (bases 1 to 978)
+  AUTHORS   Stott FJ, Bates S, James MC, McConnell BB, Starborg M, Brookes S,
+            Palmero I, Ryan K, Hara E, Vousden KH and Peters G.
+  TITLE     The alternative product from the human CDKN2A locus, p14(ARF),
+            participates in a regulatory feedback loop with p53 and MDM2
+  JOURNAL   EMBO J. 17 (17), 5001-5014 (1998)
+   PUBMED   9724636
+REFERENCE   13 (bases 1 to 978)
+  AUTHORS   Hara E, Smith R, Parry D, Tahara H, Stone S and Peters G.
+  TITLE     Regulation of p16CDKN2 expression and its implications for cell
+            immortalization and senescence
+  JOURNAL   Mol. Cell. Biol. 16 (3), 859-867 (1996)
+   PUBMED   8622687
+REFERENCE   14 (bases 1 to 978)
+  AUTHORS   Mao L, Merlo A, Bedi G, Shapiro GI, Edwards CD, Rollins BJ and
+            Sidransky D.
+  TITLE     A novel p16INK4A transcript
+  JOURNAL   Cancer Res. 55 (14), 2995-2997 (1995)
+   PUBMED   7541708
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BI258230.1, L27211.1,
+            BQ012762.1 and BX099567.1.
+            On May 21, 2020 this sequence version replaced NM_000077.4.
+            
+            Summary: This gene generates several transcript variants which
+            differ in their first exons. At least three alternatively spliced
+            variants encoding distinct proteins have been reported, two of
+            which encode structurally related isoforms known to function as
+            inhibitors of CDK4 kinase. The remaining transcript includes an
+            alternate first exon located 20 Kb upstream of the remainder of the
+            gene; this transcript contains an alternate open reading frame
+            (ARF) that specifies a protein which is structurally unrelated to
+            the products of the other variants. This ARF product functions as a
+            stabilizer of the tumor suppressor protein p53 as it can interact
+            with, and sequester, the E3 ubiquitin-protein ligase MDM2, a
+            protein responsible for the degradation of p53. In spite of the
+            structural and functional differences, the CDK inhibitor isoforms
+            and the ARF product encoded by this gene, through the regulatory
+            roles of CDK4 and p53 in cell cycle G1 progression, share a common
+            functionality in cell cycle G1 control. This gene is frequently
+            mutated or deleted in a wide variety of tumors, and is known to be
+            an important tumor suppressor gene. [provided by RefSeq, Sep 2012].
+            
+            Transcript Variant: This variant (1) is also known as alpha.
+            Transcripts 1 and 4, encoding p16INK4a and p14ARF, have distinct
+            first exons which contain the translation start codon, and share a
+            common second exon, which is translated in different reading
+            frames. Thus, the p16INK4a protein encoded by this variant (1)
+            lacks sequence similarity to the protein product of variant 4
+            (p14ARF).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: L27211.1, KC814157.1 [ECO:0000332]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on manual assertion, conservation
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-12                BI258230.1         242-253
+            13-662              L27211.1           23-672
+            663-737             BQ012762.1         7-81                c
+            738-978             BX099567.1         14-254              c
+FEATURES             Location/Qualifiers
+     source          1..978
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="9"
+                     /map="9p21.3"
+     gene            1..978
+                     /gene="CDKN2A"
+                     /gene_synonym="ARF; CDK4I; CDKN2; CMM2; INK4; INK4A; MLM;
+                     MTS-1; MTS1; P14; P14ARF; P16; P16-INK4A; P16INK4;
+                     P16INK4A; P19; P19ARF; TP16"
+                     /note="cyclin dependent kinase inhibitor 2A"
+                     /db_xref="GeneID:1029"
+                     /db_xref="HGNC:HGNC:1787"
+                     /db_xref="MIM:600160"
+     exon            1..180
+                     /gene="CDKN2A"
+                     /gene_synonym="ARF; CDK4I; CDKN2; CMM2; INK4; INK4A; MLM;
+                     MTS-1; MTS1; P14; P14ARF; P16; P16-INK4A; P16INK4;
+                     P16INK4A; P19; P19ARF; TP16"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             31..501
+                     /gene="CDKN2A"
+                     /gene_synonym="ARF; CDK4I; CDKN2; CMM2; INK4; INK4A; MLM;
+                     MTS-1; MTS1; P14; P14ARF; P16; P16-INK4A; P16INK4;
+                     P16INK4A; P19; P19ARF; TP16"
+                     /note="isoform p16INK4a is encoded by transcript variant
+                     1; cyclin-dependent kinase inhibitor 2A (melanoma, p16,
+                     inhibits CDK4); multiple tumor suppressor 1; cell cycle
+                     negative regulator beta; CDK4 inhibitor p16-INK4;
+                     cyclin-dependent kinase 4 inhibitor A; alternative reading
+                     frame"
+                     /codon_start=1
+                     /product="cyclin-dependent kinase inhibitor 2A isoform
+                     p16INK4a"
+                     /protein_id="NP_000068.1"
+                     /db_xref="CCDS:CCDS6510.1"
+                     /db_xref="GeneID:1029"
+                     /db_xref="HGNC:HGNC:1787"
+                     /db_xref="MIM:600160"
+                     /translation="MEPAAGSSMEPSADWLATAAARGRVEEVRALLEAGALPNAPNSY
+                     GRRPIQVMMMGSARVAELLLLHGAEPNCADPATLTRPVHDAAREGFLDTLVVLHRAGA
+                     RLDVRDAWGRLPVDLAEELGHRDVARYLRAAAGGTRGSNHARIDAAEGPSDIPD"
+     misc_feature    31..33
+                     /gene="CDKN2A"
+                     /gene_synonym="ARF; CDK4I; CDKN2; CMM2; INK4; INK4A; MLM;
+                     MTS-1; MTS1; P14; P14ARF; P16; P16-INK4A; P16INK4;
+                     P16INK4A; P19; P19ARF; TP16"
+                     /note="N-acetylmethionine.
+                     /evidence=ECO:0000244|PubMed:19413330,
+                     ECO:0000244|PubMed:22814378; propagated from
+                     UniProtKB/Swiss-Prot (P42771.2); acetylation site"
+     misc_feature    49..51
+                     /gene="CDKN2A"
+                     /gene_synonym="ARF; CDK4I; CDKN2; CMM2; INK4; INK4A; MLM;
+                     MTS-1; MTS1; P14; P14ARF; P16; P16-INK4A; P16INK4;
+                     P16INK4A; P19; P19ARF; TP16"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:12529334; propagated from
+                     UniProtKB/Swiss-Prot (P42771.2); phosphorylation site"
+     misc_feature    52..54
+                     /gene="CDKN2A"
+                     /gene_synonym="ARF; CDK4I; CDKN2; CMM2; INK4; INK4A; MLM;
+                     MTS-1; MTS1; P14; P14ARF; P16; P16-INK4A; P16INK4;
+                     P16INK4A; P19; P19ARF; TP16"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:12529334; propagated from
+                     UniProtKB/Swiss-Prot (P42771.2); phosphorylation site"
+     misc_feature    61..150
+                     /gene="CDKN2A"
+                     /gene_synonym="ARF; CDK4I; CDKN2; CMM2; INK4; INK4A; MLM;
+                     MTS-1; MTS1; P14; P14ARF; P16; P16-INK4A; P16INK4;
+                     P16INK4A; P19; P19ARF; TP16"
+                     /note="propagated from UniProtKB/Swiss-Prot (P42771.2);
+                     Region: ANK 1"
+     misc_feature    160..246
+                     /gene="CDKN2A"
+                     /gene_synonym="ARF; CDK4I; CDKN2; CMM2; INK4; INK4A; MLM;
+                     MTS-1; MTS1; P14; P14ARF; P16; P16-INK4A; P16INK4;
+                     P16INK4A; P19; P19ARF; TP16"
+                     /note="propagated from UniProtKB/Swiss-Prot (P42771.2);
+                     Region: ANK 2"
+     misc_feature    259..348
+                     /gene="CDKN2A"
+                     /gene_synonym="ARF; CDK4I; CDKN2; CMM2; INK4; INK4A; MLM;
+                     MTS-1; MTS1; P14; P14ARF; P16; P16-INK4A; P16INK4;
+                     P16INK4A; P19; P19ARF; TP16"
+                     /note="propagated from UniProtKB/Swiss-Prot (P42771.2);
+                     Region: ANK 3"
+     misc_feature    358..447
+                     /gene="CDKN2A"
+                     /gene_synonym="ARF; CDK4I; CDKN2; CMM2; INK4; INK4A; MLM;
+                     MTS-1; MTS1; P14; P14ARF; P16; P16-INK4A; P16INK4;
+                     P16INK4A; P19; P19ARF; TP16"
+                     /note="propagated from UniProtKB/Swiss-Prot (P42771.2);
+                     Region: ANK 4"
+     misc_feature    448..450
+                     /gene="CDKN2A"
+                     /gene_synonym="ARF; CDK4I; CDKN2; CMM2; INK4; INK4A; MLM;
+                     MTS-1; MTS1; P14; P14ARF; P16; P16-INK4A; P16INK4;
+                     P16INK4A; P19; P19ARF; TP16"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:12529334; propagated from
+                     UniProtKB/Swiss-Prot (P42771.2); phosphorylation site"
+     misc_feature    484..486
+                     /gene="CDKN2A"
+                     /gene_synonym="ARF; CDK4I; CDKN2; CMM2; INK4; INK4A; MLM;
+                     MTS-1; MTS1; P14; P14ARF; P16; P16-INK4A; P16INK4;
+                     P16INK4A; P19; P19ARF; TP16"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:12529334; propagated from
+                     UniProtKB/Swiss-Prot (P42771.2); phosphorylation site"
+     exon            181..487
+                     /gene="CDKN2A"
+                     /gene_synonym="ARF; CDK4I; CDKN2; CMM2; INK4; INK4A; MLM;
+                     MTS-1; MTS1; P14; P14ARF; P16; P16-INK4A; P16INK4;
+                     P16INK4A; P19; P19ARF; TP16"
+                     /inference="alignment:Splign:2.1.0"
+     exon            488..978
+                     /gene="CDKN2A"
+                     /gene_synonym="ARF; CDK4I; CDKN2; CMM2; INK4; INK4A; MLM;
+                     MTS-1; MTS1; P14; P14ARF; P16; P16-INK4A; P16INK4;
+                     P16INK4A; P19; P19ARF; TP16"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      715..720
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="CDKN2A"
+                     /gene_synonym="ARF; CDK4I; CDKN2; CMM2; INK4; INK4A; MLM;
+                     MTS-1; MTS1; P14; P14ARF; P16; P16-INK4A; P16INK4;
+                     P16INK4A; P19; P19ARF; TP16"
+                     /note="hexamer: TATAAA"
+     polyA_site      737
+                     /gene="CDKN2A"
+                     /gene_synonym="ARF; CDK4I; CDKN2; CMM2; INK4; INK4A; MLM;
+                     MTS-1; MTS1; P14; P14ARF; P16; P16-INK4A; P16INK4;
+                     P16INK4A; P19; P19ARF; TP16"
+                     /note="major polyA site"
+     regulatory      945..950
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="CDKN2A"
+                     /gene_synonym="ARF; CDK4I; CDKN2; CMM2; INK4; INK4A; MLM;
+                     MTS-1; MTS1; P14; P14ARF; P16; P16-INK4A; P16INK4;
+                     P16INK4A; P19; P19ARF; TP16"
+                     /note="hexamer: AATAAA"
+     polyA_site      978
+                     /gene="CDKN2A"
+                     /gene_synonym="ARF; CDK4I; CDKN2; CMM2; INK4; INK4A; MLM;
+                     MTS-1; MTS1; P14; P14ARF; P16; P16-INK4A; P16INK4;
+                     P16INK4A; P19; P19ARF; TP16"
+ORIGIN      
+        1 gagagcaggc agcgggcggc ggggagcagc atggagccgg cggcggggag cagcatggag
+       61 ccttcggctg actggctggc cacggccgcg gcccggggtc gggtagagga ggtgcgggcg
+      121 ctgctggagg cgggggcgct gcccaacgca ccgaatagtt acggtcggag gccgatccag
+      181 gtcatgatga tgggcagcgc ccgagtggcg gagctgctgc tgctccacgg cgcggagccc
+      241 aactgcgccg accccgccac tctcacccga cccgtgcacg acgctgcccg ggagggcttc
+      301 ctggacacgc tggtggtgct gcaccgggcc ggggcgcggc tggacgtgcg cgatgcctgg
+      361 ggccgtctgc ccgtggacct ggctgaggag ctgggccatc gcgatgtcgc acggtacctg
+      421 cgcgcggctg cggggggcac cagaggcagt aaccatgccc gcatagatgc cgcggaaggt
+      481 ccctcagaca tccccgattg aaagaaccag agaggctctg agaaacctcg ggaaacttag
+      541 atcatcagtc accgaaggtc ctacagggcc acaactgccc ccgccacaac ccaccccgct
+      601 ttcgtagttt tcatttagaa aatagagctt ttaaaaatgt cctgcctttt aacgtagata
+      661 tatgccttcc cccactaccg taaatgtcca tttatatcat tttttatata ttcttataaa
+      721 aatgtaaaaa agaaaaacac cgcttctgcc ttttcactgt gttggagttt tctggagtga
+      781 gcactcacgc cctaagcgca cattcatgtg ggcatttctt gcgagcctcg cagcctccgg
+      841 aagctgtcga cttcatgaca agcattttgt gaactaggga agctcagggg ggttactggc
+      901 ttctcttgag tcacactgct agcaaatggc agaaccaaag ctcaaataaa aataaaataa
+      961 ttttcattca ttcactca
+//
+
